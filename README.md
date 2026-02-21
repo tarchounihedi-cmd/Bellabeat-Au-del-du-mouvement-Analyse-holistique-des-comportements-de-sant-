@@ -1,0 +1,2 @@
+# Bellabeat-Au-del-du-mouvement-Analyse-holistique-des-comportements-de-sant-
+ En analysant les données Fitbit, j'ai découvert que si l'activité intense booste les calories, elle ne garantit pas un meilleur sommeil. J'ai donc élaboré une stratégie pour Bellabeat visant à passer d'un simple suivi de performance à une approche holistique, centrée sur la récupération et l'équilibre global de l'utilisatrice.
