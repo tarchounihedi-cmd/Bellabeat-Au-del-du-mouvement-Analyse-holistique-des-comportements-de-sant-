@@ -37,7 +37,7 @@ En parallèle, l'étude montre que :
 #### **Modèle Holistique** : En combinant l'activité et les calories pour prédire le sommeil, le modèle affiche une **p-value de 0.80**. Le sommeil est une variable indépendante de l'effort physique mesuré ici.
 
 ## Limitations Critiques
-* **Biais de l'échantillon** : Nous disposons d'un grand volume de données temporelles, mais pour seulement **30 utilisateurs**. Les conclusions peuvent donc être fortement influencées par des profils atypiques.
+* **Biais de l'échantillon** : Nous disposons d'un grand volume de données temporelles, mais pour seulement **34 utilisateurs**. Les conclusions peuvent donc être fortement influencées par des profils atypiques.
 * **Données isolées** : L'absence de données sur le stress ou l'alimentation limite l'interprétation du sommeil.
 
 ## Recommandations Stratégiques
